@@ -6,9 +6,13 @@ I can develop and update brand-new websites or existing ones. Over the last five
 
 As a Full Stack Web Developer, I am able to add on new needed skills and knowledge very quickly:
 • Excellent web-related problem-solving skills.
+
 • Specializing in WordPress theme and plugin.
+
 • Expertise in creating and maintaining hundreds of websites.
+
 • Active Directory and Windows Server experience.
+
 • Proficient in WordPress, Laravel, and coded sites.
 
 Please look at my previous works:
