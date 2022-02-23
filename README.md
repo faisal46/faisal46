@@ -21,5 +21,5 @@ Please look at my previous works:
 4. https://fouraxiz.com
 5. http://deheel.com
 6. https://shangon.shop/
-7. http://www.hospicebangladesh.com
+7. http://hospicebangladesh.com
 8. https://stbiz.com.au/
