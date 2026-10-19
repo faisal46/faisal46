@@ -1,27 +1,72 @@
 # Hello :star:
 
-I am a Full Stack Web Developer. Over the last 5 years, I have developed many websites using WordPress CMS and Laravel Framework. I can develop and update brand-new websites or existing ones. I have developed a wide range of websites and web applications using WordPress, PHP, HTML, CSS, and Bootstrap. I worked on many projects with local and international clients.
+Full-Stack WordPress Developer & AI-Powered Web Specialist with 5+ years of experience engineering custom themes, plugins, and scalable web solutions. Proficient in PHP (OOP), Laravel, MySQL, JavaScript (ES6+), React.js, and integrating AI APIs (OpenAI/Claude) for smart web automations. Proven track record in developing products for ThemeForest and CodeCanyon adhering to WordPress VIP standards. Passionate about delivering fast, secure, and SEO-friendly digital experiences optimized for Core Web Vitals (LCP, INP, CLS), accessibility (a11y), and high search visibility.
 
-As a Full Stack Web Developer, I am able to add on new needed skills and knowledge very quickly:
 
-• Excellent web-related problem-solving skills.
 
-• Specializing in WordPress themes and plugins.
+🌟 Why Choose Me? 🌟
 
-• Expertise in creating and maintaining hundreds of websites.
+01. 5+ years of professional experience in WordPress website design and development.
 
-• Active Directory and Windows Server experience.
+02. Specialized in custom WordPress theme and plugin development.
 
-• Proficient in WordPress, Laravel, and code  sites.
+03. Proficient in WordPress, Laravel, PHP, MySQL, and modern frontend technologies.
 
-Please look at my previous works:
-01. www.rajtechbd.com
-02. www.brokertarieven.nl
-03. www.brokerdata.tech
-04. www.compareallbrokers.com
-05. www.marbslifestyle.com
-06. www.tlmw.com
-07. www.wydagame.com
-08. www.fouraxiz.com
-09. www.deheel.com
-10. www.hospicebangladesh.com
+04. Experienced in developing, maintaining, and optimizing hundreds of websites.
+
+05. Skilled in building secure, scalable, and high-performance web applications.
+
+06. Clean, SEO-friendly, and high-performance code.
+
+07. Responsive, mobile-friendly websites optimized for all devices.
+
+08. Strong web development and problem-solving skills.
+
+09. Regular project updates and clear communication throughout the development process.
+
+10. Reliable support before, during, and after project delivery.
+
+
+
+🌟 Plugins - WordPress.org 🌟 
+
+# Profile: https://profiles.wordpress.org/faisalamir46/
+
+01. https://wordpress.org/plugins/fam-gmap-shortcode/
+
+02. https://wordpress.org/plugins/post-content-word-count/
+
+03. https://wordpress.org/plugins/post-qr-code-generator/
+
+
+🌟 Complete Project 🌟 
+
+00. https://w3engineers.com/
+
+01. http://rajtechbd.com
+
+02. https://www.brokertarieven.nl/
+
+03. https://brokerdata.tech/
+
+04. https://compareallbrokers.com/
+
+05. https://www.wydagame.com/
+
+06. https://tlmw.com
+
+07. https://www.wydagame.com/
+
+08. https://fouraxiz.com
+
+09. http://www.salamatinnovation.com/
+
+10. http://hospicebangladesh.com
+
+11. https://themeforest.net/item/appfusion-mobile-app-landing-wordpress-theme/55809615?s_rank=1
+
+12. https://codecanyon.net/item/a-music-streaming-website-with-admin-panel/25683696?s_rank=5 (Laravel)
+
+
+
+Please feel free to contact me anytime, I look forward to hearing from you!
